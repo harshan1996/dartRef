@@ -1,9 +1,9 @@
-## Backstory
+# Backstory
 
-Dart undergoes frequent updates, and beginner tutorials often contain deprecated code. The files provided here offer comprehensive content for beginners, covering Dart from basics to object-oriented programming (OOP).
+Dart undergoes frequent updates, and beginner tutorials often contain small amount of deprecated code here and there. The files provided here offer comprehensive content for beginners, covering Dart from basics to object-oriented programming (OOP).
 The included comments serve as supplementary knowledge, ensuring full compliance with the current Dart language. Begin your journey with one of the easiest statically typed languages available.
 
-# How to install Dart
+## How to install Dart
 
 There are two ways to install as per the official documentation
 https://dart.dev/get-dart
